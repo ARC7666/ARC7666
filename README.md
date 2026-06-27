@@ -9,10 +9,7 @@
 
 I am a **Computer Science Engineering** student at the **National Institute of Technology Durgapur**. I bridge the gap between complex engineering problems and elegant design solutions. Whether it's building a full-stack real-time bidding portal or designing visual identities for college festivals, I thrive on the intersection of technology and creativity.
 
-- :telescope: I'm currently working on **Disaster Management Systems (Varuna)** and **Real-time Auction Portals**.
 - :seedling: I'm currently learning **Advanced System Design** and **3D Motion Graphics**.
-- :handshake: I'm looking to collaborate on **Open Source MERN projects** and **UI/UX Case Studies**.
-- :speech_balloon: Ask me about **React, Node.js, or why Figma is better than Adobe XD**.
 - :mailbox: Reach me at: [ranjanankit526@gmail.com](mailto:ranjanankit526@gmail.com)
 - :zap: Fun fact: I run a YouTube channel with over **15,100 subscribers** where I teach DIY Papercraft!
 
