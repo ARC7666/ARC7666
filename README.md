@@ -60,6 +60,8 @@ Building things isn't limited to code. My passion for DIY and Papercraft has rea
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://in.pinterest.com/miniatureankit/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E7D32?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ankit-ranjan.vercel.app/)
 
-<p align="center">
-  <img width="95%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
-</p>
+<div align="center">
+> ### *"Code is like humor. When you have to explain it, it's bad."*
+>
+> **— Cory House**
+</div>
