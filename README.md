@@ -1,5 +1,10 @@
-# Hi :wave:, I'm Ankit Ranjan
-### Full-Stack Developer | UI/UX Designer | Motion Artist
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ankit Ranjan
+</h1>
+
+<h3 align="center">
+  Full-Stack Developer | UI/UX Designer | Motion Artist
+</h3>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E7D32&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Designing+Premium+User+Interfaces;Creating+Motion+Graphics;Crafting+Paper+Art)
 
