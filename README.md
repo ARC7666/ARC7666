@@ -5,12 +5,8 @@
 
 ---
 
-### :man_developer: About Me
-
-I am a **Computer Science Engineering** student at the **National Institute of Technology Durgapur**. I bridge the gap between complex engineering problems and elegant design solutions. Whether it's building a full-stack real-time bidding portal or designing visual identities for college festivals, I thrive on the intersection of technology and creativity.
-
 - :seedling: I'm currently learning **Advanced System Design** and **3D Motion Graphics**.
-- :mailbox: Reach me at: [ranjanankit526@gmail.com](mailto:ranjanankit526@gmail.com)
+- :mailbox: Reach me at: [ankitnitdgpcs@gmail.com](mailto:ankitnitdgpcs@gmail.com)
 - :zap: Fun fact: I run a YouTube channel with over **15,100 subscribers** where I teach DIY Papercraft!
 
  ---
