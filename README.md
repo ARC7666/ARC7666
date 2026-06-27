@@ -41,7 +41,7 @@ Building things isn't limited to code. My passion for DIY and Papercraft has rea
 
 ### :globe_with_meridians: Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjanankit526)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitranjanin)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankitranjan.in)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=for-the-badge&logo=pinterest&logoColor=white)](https://in.pinterest.com/miniatureankit/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E7D32?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ankit-ranjan.vercel.app/)
