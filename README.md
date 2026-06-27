@@ -29,15 +29,19 @@
 ---
 ### :bar_chart: GitHub Stats
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARC7666&show_icons=true&theme=github_dark&border_color=30363d&border_radius=12&count_private=true" />
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARC7666&layout=compact&theme=github_dark&border_color=30363d&border_radius=12" />
-</div>
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=ARC7666&show_icons=true&theme=github_dark&border_color=30363d&border_radius=12&count_private=true"/>
 
-<div align="center">
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ARC7666&theme=github_dark&border=30363d&border_radius=12" />
-</div>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARC7666&layout=compact&theme=github_dark&border_color=30363d&border_radius=12"/>
+
+</p>
+
+<p align="center">
+
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=ARC7666&theme=github_dark&border=30363d&border_radius=12"/>
+
+</p>
 
 ---
 
