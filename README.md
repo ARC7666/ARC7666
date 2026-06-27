@@ -29,10 +29,21 @@
 ---
 ### :bar_chart: GitHub Stats
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARC7666&show_icons=true&theme=github_dark&border_color=30363d&border_radius=12&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARC7666&layout=compact&theme=github_dark&border_color=30363d&border_radius=12)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ARC7666&theme=github_dark&border=30363d&border_radius=12)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARC7666&show_icons=true&theme=github_dark&border_color=30363d&border_radius=12&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARC7666&layout=compact&theme=github_dark&border_color=30363d&border_radius=12" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=ARC7666&theme=github_dark&border=30363d&border_radius=12" />
+
+</div>
 ---
 
 ### :tv: Featured Creator: MiniatureAnkit
