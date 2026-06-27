@@ -65,5 +65,4 @@ Building things isn't limited to code. My passion for DIY and Papercraft has rea
 │  ❝ Code is like humor.                                      │
 │     When you have to explain it, it's bad. ❞                │
 │                                                             |
-│                                           — Cory House      │
 └──────────────────────────────────────────────────────────────┘
