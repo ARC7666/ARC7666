@@ -34,7 +34,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARC7666&layout=compact&theme=github_dark&border_color=30363d&border_radius=12" />
 </div>
-
 <br>
 <div align="center">
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ARC7666&theme=github_dark&border=30363d&border_radius=12" />
