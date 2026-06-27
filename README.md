@@ -29,8 +29,7 @@
 ---
 ### :bar_chart: GitHub Stats
 
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARC7666&show_icons=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12)
-
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARC7666&show_icons=true&theme=github_dark&border_color=30363d&border_radius=12&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARC7666&layout=compact&theme=github_dark&border_color=30363d&border_radius=12)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ARC7666&theme=github_dark&border=30363d&border_radius=12)
