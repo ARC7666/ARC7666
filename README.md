@@ -36,9 +36,8 @@
 </div>
 
 <br>
-
 <div align="center">
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=ARC7666&theme=github_dark&border=30363d&border_radius=12" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=ARC7666&theme=github_dark&border=30363d&border_radius=12" />
 </div>
 
 ---
