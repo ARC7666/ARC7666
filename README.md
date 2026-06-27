@@ -6,7 +6,11 @@
   Full-Stack Developer | UI/UX Designer | Motion Artist
 </h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E7D32&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Designing+Premium+User+Interfaces;Creating+Motion+Graphics;Crafting+Paper+Art)
+<p align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E7D32&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Apps;Designing+Premium+User+Interfaces;Creating+Motion+Graphics;Crafting+Paper+Art" alt="Typing SVG" />
+
+</p>
 
 ---
 
