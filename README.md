@@ -35,11 +35,14 @@
 ### :bar_chart: GitHub Stats
 
 <p align="center">
-
-  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=ARC7666&show_icons=true&theme=github_dark&border_color=30363d&border_radius=12&count_private=true"/>
-
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARC7666&layout=compact&theme=github_dark&border_color=30363d&border_radius=12"/>
-
+  <img
+    width="54%"
+    src="https://github-readme-stats.vercel.app/api?username=ARC7666&show_icons=true&theme=github_dark&border_color=30363d&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800"
+  />
+  <img
+    width="41%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARC7666&layout=compact&theme=github_dark&border_color=30363d&border_radius=12&cache_seconds=1800"
+  />
 </p>
 
 <p align="center">
